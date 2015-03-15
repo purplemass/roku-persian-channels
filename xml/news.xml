@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>3</endIndex>
+
+	<item sdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_HD.png">
+		<title>BBC Persian</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_persian/ls_satlink/b_,264,528,828,.m3u8</streamUrl>
+		</media>
+		<synopsis>News from BBC Persian</synopsis>
+		<genres>News</genres>
+	</item>
+
+	<item sdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_World_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_World_HD.png">
+		<title>BBC World</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_,264,528,828,.m3u8</streamUrl>
+		</media>
+		<synopsis>News from BBC World</synopsis>
+		<genres>News</genres>
+	</item>
+
+	<!--
+		THESE DON'T WORK
+			IRAN TV
+			<streamUrl>http://mellitvrtmp.tulix.tv:1935/m-iran/m-iran/playlist.m3u8</streamUrl>
+
+			VOA Persian
+			<streamUrl>http://hd4.lsops.net/live/voiceofa_fa_hls.smil/playlist.m3u8</streamUrl>
+
+			Pars TV
+			<streamUrl>http://mellitvrtmp.tulix.tv:1935/m-pars/m-pars/playlist.m3u8</streamUrl>
+			<streamUrl>http://92.60.12.11:1935/live/9263.stream/playlist.m3u8</streamUrl>
+
+		REPEAT OF DIDAR TV
+			Didgah TV
+			<streamUrl>http://63.237.48.3/ios/DIDGAH_TV/DIDGAH_TV.m3u8</streamUrl>
+
+		RELIGIOUS
+			1TV
+			<streamUrl>http://iphone-streaming.ustream.tv/ustreamVideo/11266193/streams/live/playlist.m3u8</streamUrl>
+
+		LINKS
+
+			http://sdkdocs.roku.com/display/sdkdoc/Roku+SDK+Documentation
+
+			http://www.anza-mon.com/anosh/TV/Farsi.strm
+			http://www.navixtreme.com/wiilist/135784/iran_tv_hd.plx
+			http://www.anza-mon.com/anosh/TV/Farsi.strm
+			view-source:http://myipbox.org/iptv.xml
+			http://95.154.230.253/ip-1/encoded/Oi8vcGFzdGViaW4uY29tL1B2cXBTTEZx
+			https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/channels.py
+
+			http://www.iranianlivetv.com/
+
+			http://www.takseyret.com/voa-tv-persian/
+
+			http://rokustar.com/create-roku-channel/
+	-->
+</feed>

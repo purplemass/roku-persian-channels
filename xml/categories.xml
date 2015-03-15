@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <banner_ad sd_img="http://192.168.1.115/roku/channel-bob/images/Overhang_Background_SD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Overhang_Background_HD.png"/>
+
+    <category title="Others" description="Other Channels" sd_img="http://192.168.1.115/roku/channel-bob/images/Category_Others_SD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Category_Others_HD.png">
+        <categoryLeaf title="News" description="" feed="http://192.168.1.115/roku/channel-bob/xml/others.xml"/>
+    </category>
+
+    <category title="News" description="News Channels" sd_img="http://192.168.1.115/roku/channel-bob/images/Category_News_SD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Category_News_HD.png">
+        <categoryLeaf title="News" description="" feed="http://192.168.1.115/roku/channel-bob/xml/news.xml"/>
+    </category>
+
+ </categories>
