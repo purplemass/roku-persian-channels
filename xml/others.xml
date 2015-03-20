@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
 	<!-- resultLength indicates the total number of results for this feed -->
-	<resultLength>9</resultLength>
+	<resultLength>8</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>9</endIndex>
-
-	<item sdImg="http://192.168.1.115/roku/channel-bob/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/MainMenu_Icon_CenterFocus_HD.png">
-		<title>Manoto 1</title>
-		<contentId>10001</contentId>
-		<contentType>Talk</contentType>
-		<contentQuality>SD</contentQuality>
-		<streamFormat>hls</streamFormat>
-		<media>
-			<streamQuality>SD</streamQuality>
-			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8</streamUrl>
-		</media>
-		<synopsis></synopsis>
-		<genres>Entertainment</genres>
-	</item>
+	<endIndex>8</endIndex>
 
 	<item sdImg="http://192.168.1.115/roku/channel-bob/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/MainMenu_Icon_CenterFocus_HD.png">
 		<title>DIDAR TV</title>

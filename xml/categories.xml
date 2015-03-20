@@ -8,6 +8,10 @@
         <categoryLeaf title="News" description="" feed="http://192.168.1.115/roku/channel-bob/xml/others.xml"/>
     </category>
 
+    <category title="Manoto" description="Manoto Channels" sd_img="http://192.168.1.115/roku/channel-bob/images/Category_Manoto_HD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Category_Manoto_SD.png">
+        <categoryLeaf title="News" description="" feed="http://192.168.1.115/roku/channel-bob/xml/manoto.xml"/>
+    </category>
+
     <category title="News" description="News Channels" sd_img="http://192.168.1.115/roku/channel-bob/images/Category_News_SD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Category_News_HD.png">
         <categoryLeaf title="News" description="" feed="http://192.168.1.115/roku/channel-bob/xml/news.xml"/>
     </category>

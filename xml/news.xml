@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
 	<!-- resultLength indicates the total number of results for this feed -->
-	<resultLength>3</resultLength>
+	<resultLength>4</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>3</endIndex>
+	<endIndex>4</endIndex>
 
 	<item sdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_HD.png">
 		<title>BBC Persian</title>
@@ -35,6 +35,21 @@
 		<genres>News</genres>
 	</item>
 
+	<item sdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_HD.png">
+		<title>BBC Persian (alt.)</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8</streamUrl>
+		</media>
+		<synopsis>News from BBC Persian (alternative site)</synopsis>
+		<genres>News</genres>
+	</item>
+
 	<!--
 		THESE DON'T WORK
 			IRAN TV
@@ -59,6 +74,7 @@
 
 			http://sdkdocs.roku.com/display/sdkdoc/Roku+SDK+Documentation
 
+			http://iriptv.com/
 			http://www.anza-mon.com/anosh/TV/Farsi.strm
 			http://www.navixtreme.com/wiilist/135784/iran_tv_hd.plx
 			http://www.anza-mon.com/anosh/TV/Farsi.strm
@@ -71,5 +87,9 @@
 			http://www.takseyret.com/voa-tv-persian/
 
 			http://rokustar.com/create-roku-channel/
+
+			https://www.facebook.com/xxIPTVxx
+			https://www.facebook.com/iptvlinks
+			http://iptv-tv.blogspot.co.uk/
 	-->
 </feed>
