@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
 	<!-- resultLength indicates the total number of results for this feed -->
-	<resultLength>5</resultLength>
+	<resultLength>6</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>5</endIndex>
+	<endIndex>6</endIndex>
 
 	<item sdImg="http://purplemass.com/roku/images/IRIB_IRIB_SD.png" hdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png">
 		<title>JameJam1</title>
@@ -60,6 +60,21 @@
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
 			<streamUrl>http://63.237.48.23/ios/POOYA_TV/POOYA_TV.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png" hdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png">
+		<title>IRIB HD</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://edge1.livetv.irib.ir:1935/tv/smil:hdtest/player.m3u8</streamUrl>
 		</media>
 		<synopsis></synopsis>
 		<genres>Entertainment</genres>

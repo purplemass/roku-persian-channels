@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
 	<!-- resultLength indicates the total number of results for this feed -->
-	<resultLength>3</resultLength>
+	<resultLength>9</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>3</endIndex>
+	<endIndex>9</endIndex>
 
 	<item sdImg="http://purplemass.com/roku/images/Entertainment_Manoto1_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_Manoto1_HD.png">
 		<title>Manoto 1</title>
@@ -35,4 +35,98 @@
 		<genres>Entertainment</genres>
 	</item>
 
+	<item sdImg="http://purplemass.com/roku/images/Entertainment_iFilm_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_iFilm_HD.png">
+		<title>iFILM TV</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/IFILM/IFILM.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/Entertainment_GEM_TV_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png">
+		<title>GEM TV</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/GEM_TV/GEM_TV.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/Entertainment_GEM_TV_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png">
+		<title>GEM TV USA</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/Entertainment_GEM_TV_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png">
+		<title>Onyx TV</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/Entertainment_PMC_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_PMC_HD.png">
+		<title>PMC</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/PMC/PMC.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/Entertainment_ITN_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_ITN_HD.png">
+		<title>ITN</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/ITN/ITN.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+<!--
+	REF: https://www.facebook.com/iptvlinks/posts/1594150447483437
+
+-->
 </feed>
