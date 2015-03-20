@@ -20,8 +20,8 @@
 		<genres>Entertainment</genres>
 	</item>
 
-	<item sdImg="http://purplemass.com/roku/images/Entertainment_Manoto1_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_Manoto1_HD.png">
-		<title>Asre Emrozz</title>
+	<item sdImg="http://purplemass.com/roku/images/Entertainment_Asre_Emrooz_SD.png" hdImg="http://purplemass.com/roku/images/Entertainment_Asre_Emrooz_HD.png">
+		<title>Asre Emrooz</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
