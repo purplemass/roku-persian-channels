@@ -1,42 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
 	<!-- resultLength indicates the total number of results for this feed -->
-	<resultLength>3</resultLength>
+	<resultLength>12</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>3</endIndex>
+	<endIndex>12</endIndex>
 
-	<item sdImg="http://purplemass.com/roku/images/Manoto_Manoto1_SD.png" hdImg="http://purplemass.com/roku/images/Manoto_Manoto1_HD.png">
-		<title>Manoto 1</title>
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>Sky Sport 1</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
-		<streamFormat>hls</streamFormat>
+		<streamFormat>ts</streamFormat>
 		<media>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8</streamUrl>
+			<streamUrl>http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/360.ts</streamUrl>
 		</media>
 		<synopsis></synopsis>
 		<genres>Entertainment</genres>
 	</item>
 
-	<item sdImg="http://purplemass.com/roku/images/Manoto_Manoto1_SD.png" hdImg="http://purplemass.com/roku/images/Manoto_Manoto1_HD.png">
-		<title>Manoto 1</title>
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>Sky Sport 2</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
-		<streamFormat>hls</streamFormat>
+		<streamFormat>ts</streamFormat>
 		<media>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://manoto1_live-lh.akamaihd.net/i/Manoto1_0@50710/index_1536_av-p.m3u8</streamUrl>
+			<streamUrl>http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/348.ts</streamUrl>
 		</media>
 		<synopsis></synopsis>
 		<genres>Entertainment</genres>
 	</item>
 
-	<item sdImg="http://purplemass.com/roku/images/Manoto_Manoto1_SD.png" hdImg="http://purplemass.com/roku/images/Manoto_Manoto1_HD.png">
-		<title>JameJam1</title>
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>BT Sport 1</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/356.ts</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>BT Sport 2</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/357.ts</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>TSN 1</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -44,7 +74,97 @@
 		<media>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8</streamUrl>
+			<streamUrl>http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>TSN 2</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>TSN 3</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>Euro Sport 1</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://88.150.210.146/iptv/6TSGFPWCF5/141/index.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>Euro Sport 2</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://88.150.210.146/iptv/6TSGFPWCF5/539/index.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>Sport Klub 1</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl><![CDATA[http://89.212.240.49:11980/live/smil:438_0.smil/playlist.m3u8?authorization_key&stream_id]]></streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+		<title>Sport Klub 2</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl><![CDATA[http://89.212.240.49:11980/live/smil:439_0.smil/playlist.m3u8?authorization_key&stream_id ]]></streamUrl>
 		</media>
 		<synopsis></synopsis>
 		<genres>Entertainment</genres>
