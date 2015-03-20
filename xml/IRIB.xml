@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
 	<!-- resultLength indicates the total number of results for this feed -->
-	<resultLength>8</resultLength>
+	<resultLength>5</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>8</endIndex>
+	<endIndex>5</endIndex>
 
-	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
-		<title>DIDAR TV</title>
+	<item sdImg="http://purplemass.com/roku/images/IRIB_IRIB_SD.png" hdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png">
+		<title>JameJam1</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -14,59 +14,13 @@
 		<media>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://63.237.48.23/ios/DIDGAH_TV/DIDGAH_TV.m3u8</streamUrl>
+			<streamUrl>http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8</streamUrl>
 		</media>
 		<synopsis></synopsis>
 		<genres>Entertainment</genres>
 	</item>
 
-	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
-		<title>Ariana TV</title>
-		<contentId>10001</contentId>
-		<contentType>Talk</contentType>
-		<contentQuality>SD</contentQuality>
-		<streamFormat>hls</streamFormat>
-		<media>
-			<streamQuality>SD</streamQuality>
-			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://63.237.48.23/ios/ARIANA_AFGHAN/ARIANA_AFGHAN.m3u8</streamUrl>
-		</media>
-		<synopsis></synopsis>
-		<genres>Entertainment</genres>
-	</item>
-
-	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
-		<title>Amoozesh</title>
-		<contentId>10001</contentId>
-		<contentType>Talk</contentType>
-		<contentQuality>SD</contentQuality>
-		<streamFormat>hls</streamFormat>
-		<media>
-			<streamQuality>SD</streamQuality>
-			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://63.237.48.23/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8</streamUrl>
-		</media>
-		<synopsis></synopsis>
-		<genres>Entertainment</genres>
-	</item>
-
-	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
-		<title>VOA Persian Test</title>
-		<contentId>10001</contentId>
-		<contentType>Talk</contentType>
-		<contentQuality>SD</contentQuality>
-		<streamFormat>mp4</streamFormat>
-		<media>
-			<streamQuality>SD</streamQuality>
-			<streamBitrate>1500</streamBitrate>
-			<!-- <streamUrl>http://video.ted.com/talks/podcast/JimFallon_2009_480.mp4</streamUrl> -->
-			<streamUrl>http://av.voanews.com/Videoroot/Pangeavideo/2015/03/7/76/765cefa1-8e06-4620-9530-010065fb847a.mp4</streamUrl>
-		</media>
-		<synopsis></synopsis>
-		<genres>News</genres>
-	</item>
-
-	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+	<item sdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png" hdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png">
 		<title>IRIB 1</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
@@ -81,7 +35,7 @@
 		<genres>Entertainment</genres>
 	</item>
 
-	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+	<item sdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png" hdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png">
 		<title>IRIB 4</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
@@ -96,7 +50,7 @@
 		<genres>Entertainment</genres>
 	</item>
 
-	<item sdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_SD.png" hdImg="http://purplemass.com/roku/images/MainMenu_Icon_CenterFocus_HD.png">
+	<item sdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png" hdImg="http://purplemass.com/roku/images/IRIB_IRIB_HD.png">
 		<title>IRIB Pooya</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>

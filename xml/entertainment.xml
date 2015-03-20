@@ -14,21 +14,6 @@
 		<media>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8</streamUrl>
-		</media>
-		<synopsis></synopsis>
-		<genres>Entertainment</genres>
-	</item>
-
-	<item sdImg="http://purplemass.com/roku//images/Manoto_Manoto1_SD.png" hdImg="http://purplemass.com/roku//images/Manoto_Manoto1_HD.png">
-		<title>Manoto 1</title>
-		<contentId>10001</contentId>
-		<contentType>Talk</contentType>
-		<contentQuality>SD</contentQuality>
-		<streamFormat>hls</streamFormat>
-		<media>
-			<streamQuality>SD</streamQuality>
-			<streamBitrate>1500</streamBitrate>
 			<streamUrl>http://manoto1_live-lh.akamaihd.net/i/Manoto1_0@50710/index_1536_av-p.m3u8</streamUrl>
 		</media>
 		<synopsis></synopsis>
@@ -36,7 +21,7 @@
 	</item>
 
 	<item sdImg="http://purplemass.com/roku//images/Manoto_Manoto1_SD.png" hdImg="http://purplemass.com/roku//images/Manoto_Manoto1_HD.png">
-		<title>JameJam1</title>
+		<title>Asre Emrozz</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -44,7 +29,7 @@
 		<media>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8</streamUrl>
+			<streamUrl>http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8</streamUrl>
 		</media>
 		<synopsis></synopsis>
 		<genres>Entertainment</genres>
