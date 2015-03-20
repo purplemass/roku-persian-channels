@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>3</endIndex>
+
+	<item sdImg="http://purplemass.com/roku//images/Manoto_Manoto1_SD.png" hdImg="http://purplemass.com/roku//images/Manoto_Manoto1_HD.png">
+		<title>Manoto 1</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku//images/Manoto_Manoto1_SD.png" hdImg="http://purplemass.com/roku//images/Manoto_Manoto1_HD.png">
+		<title>Manoto 1</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://manoto1_live-lh.akamaihd.net/i/Manoto1_0@50710/index_1536_av-p.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku//images/Manoto_Manoto1_SD.png" hdImg="http://purplemass.com/roku//images/Manoto_Manoto1_HD.png">
+		<title>JameJam1</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Entertainment</genres>
+	</item>
+
+</feed>

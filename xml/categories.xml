@@ -2,18 +2,26 @@
 <categories>
 
 	  <!-- banner_ad: optional element which displays an at the top level category screen -->
-	  <banner_ad sd_img="http://192.168.1.115/roku/channel-bob/images/Overhang_Background_SD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Overhang_Background_HD.png"/>
+	  <banner_ad sd_img="http://purplemass.com/roku/images/Overhang_Background_SD.png" hd_img="http://purplemass.com/roku/images/Overhang_Background_HD.png"/>
 
-    <category title="Others" description="Other Channels" sd_img="http://192.168.1.115/roku/channel-bob/images/Category_Others_SD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Category_Others_HD.png">
-        <categoryLeaf title="News" description="" feed="http://192.168.1.115/roku/channel-bob/xml/others.xml"/>
+    <category title="Sport" description="Other Channels" sd_img="http://purplemass.com/roku/images/Category_Sport_SD.png" hd_img="http://purplemass.com/roku/images/Category_Sport_HD.png">
+        <categoryLeaf title="Sport" description="" feed="http://purplemass.com/roku/xml/sport.xml"/>
     </category>
 
-    <category title="Manoto" description="Manoto Channels" sd_img="http://192.168.1.115/roku/channel-bob/images/Category_Manoto_HD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Category_Manoto_SD.png">
-        <categoryLeaf title="News" description="" feed="http://192.168.1.115/roku/channel-bob/xml/manoto.xml"/>
+    <category title="IRIB" description="Other Channels" sd_img="http://purplemass.com/roku/images/Category_IRIB_SD.png" hd_img="http://purplemass.com/roku/images/Category_IRIB_HD.png">
+        <categoryLeaf title="IRIB" description="" feed="http://purplemass.com/roku/xml/IRIB.xml"/>
     </category>
 
-    <category title="News" description="News Channels" sd_img="http://192.168.1.115/roku/channel-bob/images/Category_News_SD.png" hd_img="http://192.168.1.115/roku/channel-bob/images/Category_News_HD.png">
-        <categoryLeaf title="News" description="" feed="http://192.168.1.115/roku/channel-bob/xml/news.xml"/>
+    <category title="Others" description="Other Channels" sd_img="http://purplemass.com/roku/images/Category_Others_SD.png" hd_img="http://purplemass.com/roku/images/Category_Others_HD.png">
+        <categoryLeaf title="Others" description="" feed="http://purplemass.com/roku/xml/others.xml"/>
+    </category>
+
+    <category title="Ents" description="Entertainment Channels" sd_img="http://purplemass.com/roku/images/Category_Ents_HD.png" hd_img="http://purplemass.com/roku/images/Category_Ents_SD.png">
+        <categoryLeaf title="Ents" description="" feed="http://purplemass.com/roku/xml/entertainment.xml"/>
+    </category>
+
+    <category title="News" description="News Channels" sd_img="http://purplemass.com/roku/images/Category_News_SD.png" hd_img="http://purplemass.com/roku/images/Category_News_HD.png">
+        <categoryLeaf title="News" description="" feed="http://purplemass.com/roku/xml/news.xml"/>
     </category>
 
  </categories>

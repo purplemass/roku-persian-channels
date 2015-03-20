@@ -5,7 +5,7 @@
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>4</endIndex>
 
-	<item sdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_HD.png">
+	<item sdImg="http://purplemass.com/roku/images/News_BBC_Persian_SD.png" hdImg="http://purplemass.com/roku/images/News_BBC_Persian_HD.png">
 		<title>BBC Persian</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 		<genres>News</genres>
 	</item>
 
-	<item sdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_World_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_World_HD.png">
+	<item sdImg="http://purplemass.com/roku/images/News_BBC_World_SD.png" hdImg="http://purplemass.com/roku/images/News_BBC_World_HD.png">
 		<title>BBC World</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
@@ -35,7 +35,7 @@
 		<genres>News</genres>
 	</item>
 
-	<item sdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_SD.png" hdImg="http://192.168.1.115/roku/channel-bob/images/News_BBC_Persian_HD.png">
+	<item sdImg="http://purplemass.com/roku/images/News_BBC_Persian_SD.png" hdImg="http://purplemass.com/roku/images/News_BBC_Persian_HD.png">
 		<title>BBC Persian (alt.)</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
