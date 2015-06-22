@@ -16,12 +16,12 @@
         <categoryLeaf title="Others" description="" feed="http://purplemass.com/roku/xml/others.xml"/>
     </category>
 
-    <category title="Ents" description="Entertainment Channels" sd_img="http://purplemass.com/roku/images/Category_Ents_HD.png" hd_img="http://purplemass.com/roku/images/Category_Ents_SD.png">
-        <categoryLeaf title="Ents" description="" feed="http://purplemass.com/roku/xml/entertainment.xml"/>
-    </category>
-
     <category title="News" description="News Channels" sd_img="http://purplemass.com/roku/images/Category_News_SD.png" hd_img="http://purplemass.com/roku/images/Category_News_HD.png">
         <categoryLeaf title="News" description="" feed="http://purplemass.com/roku/xml/news.xml"/>
+    </category>
+
+    <category title="Ents" description="Entertainment Channels" sd_img="http://purplemass.com/roku/images/Category_Ents_HD.png" hd_img="http://purplemass.com/roku/images/Category_Ents_SD.png">
+        <categoryLeaf title="Ents" description="" feed="http://purplemass.com/roku/xml/entertainment.xml"/>
     </category>
 
  </categories>

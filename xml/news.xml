@@ -3,7 +3,7 @@
 	<!-- resultLength indicates the total number of results for this feed -->
 	<resultLength>4</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>4</endIndex>
+	<endIndex>5</endIndex>
 
 	<item sdImg="http://purplemass.com/roku/images/News_BBC_Persian_SD.png" hdImg="http://purplemass.com/roku/images/News_BBC_Persian_HD.png">
 		<title>BBC Persian</title>
@@ -17,6 +17,21 @@
 			<streamUrl>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_persian/ls_satlink/b_,264,528,828,.m3u8</streamUrl>
 		</media>
 		<synopsis>News from BBC Persian</synopsis>
+		<genres>News</genres>
+	</item>
+
+	<item sdImg="http://purplemass.com/roku/images/News_VOA_Persian_SD.png" hdImg="http://purplemass.com/roku/images/News_VOA_Persian_HD.png">
+		<title>VOA Persian</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://63.237.48.3/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
 		<genres>News</genres>
 	</item>
 
